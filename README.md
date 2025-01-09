@@ -20,3 +20,8 @@ A simple client-server chat application built with Python using the `socket` lib
   - `threading` (for handling multiple clients concurrently)
 
 ---
+
+## Usage Instructions
+- Start the server before connecting clients.
+- Once connected, clients can send messages by typing and pressing Enter.
+- All connected clients will receive the messages broadcast by others.
